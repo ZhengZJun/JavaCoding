@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/Java_study/jsoup/jsoup.iml" filepath="E:/Java_study/jsoup/jsoup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../session-cookie/session-cookie.iml" filepath="$PROJECT_DIR$/../session-cookie/session-cookie.iml" />
+    </modules>
+  </component>
+</project>
